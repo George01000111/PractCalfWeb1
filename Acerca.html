@@ -1,0 +1,103 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1" />
+    <div id="titulo"></div>
+    <link href="styles/stylesSASS.css" rel="stylesheet" />
+
+
+    <script>
+
+        var miHtml = {
+
+            parrafo: "parrafo de la web  ",
+            estilo: " style='color:red;' ",
+            encamb: "Encabezado de la web",
+            tit: "Acerca ",
+            P: "texto p",
+            A: "https://www.mozilla.com/",
+            Spann: "parte spam",
+            Comentario: "soy un comentario",
+
+            bloqueParrafo: function () {
+                let div = document.getElementById("parrafo");
+                div.innerHTML = "<p" + miHtml.estilo + " >" + miHtml.parrafo + "</p>";
+            },
+
+            bloqueEncabezado: function () {
+                let div = document.getElementById("Encabezado");
+                div.innerHTML = "<h1>" + miHtml.encamb + "</h1>";
+            },
+
+            bloqueTitulo: function () {
+                let div = document.getElementById("titulo");
+                div.innerHTML = "<title>" + miHtml.tit + "</title>";
+            },
+
+            bloqueP: function () {
+                let div = document.getElementById("P");
+                div.innerHTML = "<b>" + miHtml.P + "</b>";
+            },
+
+            bloqueA: function () {
+                let div = document.getElementById("a");
+                div.innerHTML = "<a href=" + miHtml.A + ">Enlace</a>";
+            },
+
+            bloqueSpam: function () {
+                let div = document.getElementById("P");
+                div.innerHTML = "<span>" + miHtml.Spann + "</span>";
+            },
+
+            bloqueComent: function () {
+                let div = document.getElementById("Coment");
+                div.innerHTML = "<comment>" + miHtml.Comentario + "</comment> ";
+            },
+
+        };
+
+        function activar() {
+            miHtml.bloqueParrafo();
+            miHtml.bloqueEncabezado();
+            miHtml.bloqueTitulo();
+            miHtml.bloqueP();
+            miHtml.bloqueA();
+            miHtml.bloqueSpam();
+            miHtml.bloqueComent();
+        }
+    </script>
+
+</head>
+
+<body onload="activar()">
+
+
+
+    <header>
+        <nav class="dropdown">
+            <button class="menu-title">Menu</button>
+            <ul class="dropdown-content">
+                <li><a href="index.html">Inicio</a></li>
+                <li><a href="Acerca.html">acerca de nosotros</a></li>
+                <li><a href="ubicanos.html">contáctenos</a></li>
+                <li><a href="Servicios.html">servicios</a></li>
+            </ul>
+        </nav>
+    </header>
+
+
+
+    <div id="Encabezado"></div>
+    <div id="parrafo"></div>
+    <div id="P"></div>
+    <div id="a"></div>
+    <div id="Spam"></div>
+    <div id="Coment"></div>
+
+    <footer>
+        Nuestra dirección
+        &copy; Todos los derechos reservados a Cibertec - <span id="date"></span>
+    </footer>
+</body>
+</html>

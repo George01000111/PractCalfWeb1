@@ -1,0 +1,168 @@
+C:\clase 5\EXAMEN\WebSiteExamen\bin\WebSiteExamen.dll.config
+C:\clase 5\EXAMEN\WebSiteExamen\bin\WebSiteExamen.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\WebSiteExamen.pdb
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\csc.exe
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\csc.exe.config
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\csc.rsp
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\csi.exe
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\csi.exe.config
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\csi.rsp
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.AppContext.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Collections.Immutable.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Console.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Compression.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.FileSystem.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Pipes.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Reflection.Metadata.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.AccessControl.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Claims.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.ValueTuple.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XPath.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\vbc.exe
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\vbc.exe.config
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\vbc.rsp
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\VBCSCompiler.exe
+C:\clase 5\EXAMEN\WebSiteExamen\bin\roslyn\VBCSCompiler.exe.config
+C:\clase 5\EXAMEN\WebSiteExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\clase 5\EXAMEN\WebSiteExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\clase 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csprojAssemblyReference.cache
+C:\clase 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csproj.CoreCompileInputs.cache
+C:\clase 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csproj.CopyComplete
+C:\clase 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.dll
+C:\clase 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.pdb
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\WebSiteExamen.dll.config
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\WebSiteExamen.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\WebSiteExamen.pdb
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\csc.exe
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\csc.exe.config
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\csc.rsp
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\csi.exe
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\csi.exe.config
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\csi.rsp
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.Managed.Core.targets
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.AppContext.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Collections.Immutable.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Console.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Compression.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.FileSystem.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Pipes.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Reflection.Metadata.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.AccessControl.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Claims.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Principal.Windows.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.ValueTuple.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XmlDocument.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XPath.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\vbc.exe
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\vbc.exe.config
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\vbc.rsp
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\VBCSCompiler.exe
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\roslyn\VBCSCompiler.exe.config
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csprojAssemblyReference.cache
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csproj.CoreCompileInputs.cache
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csproj.CopyComplete
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.dll
+E:\CLASE VISUAL STUDIO 2017 WEB DEVELOPER - C#\CLASE # 5\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.pdb
+C:\exam\EXAMEN\WebSiteExamen\bin\WebSiteExamen.dll.config
+C:\exam\EXAMEN\WebSiteExamen\bin\WebSiteExamen.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\WebSiteExamen.pdb
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\csc.exe
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\csc.exe.config
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\csc.rsp
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\csi.exe
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\csi.exe.config
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\csi.rsp
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.Managed.Core.targets
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.AppContext.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Collections.Immutable.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Console.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Compression.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.FileSystem.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.IO.Pipes.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Reflection.Metadata.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.AccessControl.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Claims.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Security.Principal.Windows.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.ValueTuple.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XmlDocument.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XPath.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\vbc.exe
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\vbc.exe.config
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\vbc.rsp
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\VBCSCompiler.exe
+C:\exam\EXAMEN\WebSiteExamen\bin\roslyn\VBCSCompiler.exe.config
+C:\exam\EXAMEN\WebSiteExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\exam\EXAMEN\WebSiteExamen\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\exam\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csprojAssemblyReference.cache
+C:\exam\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csproj.CoreCompileInputs.cache
+C:\exam\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.csproj.CopyComplete
+C:\exam\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.dll
+C:\exam\EXAMEN\WebSiteExamen\obj\Debug\WebSiteExamen.pdb
